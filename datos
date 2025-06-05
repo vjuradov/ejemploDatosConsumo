@@ -1,1 +1,194 @@
-
+[
+    {
+      "fecha": "2025-06-06",
+      "equipo_local": "Colombia",
+      "resultado": "ganó",
+      "goles_a_favor": 2,
+      "goles_en_contra": 1,
+      "jugadores": [
+        {
+          "nombre": "Camilo Vargas",
+          "posición": "Portero",
+          "foto_url": "https://media.istockphoto.com/id/2066875733/photo/confident-male-soccer-player-portrait-on-field.jpg?s=2048x2048&w=is&k=20&c=Qp1HInoW26StvOQwrgwGbgaFA96EJVUE4hu_EsXpJt4="
+        },
+        {
+          "nombre": "Daniel Muñoz",
+          "posición": "Defensa",
+          "foto_url": "https://media.istockphoto.com/id/2149109733/photo/determined-male-referee-at-football-game.jpg?s=2048x2048&w=is&k=20&c=-ojsWy_Wv_2zskBQUWmii6FflK68gNFMaHHDTweq-Qc="
+        },
+        {
+          "nombre": "Yerry Mina",
+          "posición": "Defensa",
+          "foto_url": "https://media.istockphoto.com/id/2149109724/photo/confident-male-football-player-in-professional-attire-holding-ball.jpg?s=2048x2048&w=is&k=20&c=ES6q8iVV8Z0pqpeUgGAwCkBwM8rS_Sbmcju1MV5LB8I="
+        },
+        {
+          "nombre": "Davinson Sánchez",
+          "posición": "Defensa",
+          "foto_url": "https://media.istockphoto.com/id/187184994/photo/soccer-player-on-the-football-pitch.jpg?s=2048x2048&w=is&k=20&c=w6FW_bILWlXQ2_eOtlnmkmKjTfC7htwdGmGmTY0ElEw="
+        },
+        {
+          "nombre": "Johan Mojica",
+          "posición": "Defensa",
+          "foto_url": "https://media.istockphoto.com/id/515056644/photo/soccer-player-portrait-looking-away.jpg?s=2048x2048&w=is&k=20&c=6r7x6ojUYCbnAzWiHgq4LsR2ZWoYnjyAL3HBb0fAjTU="
+        },
+        {
+          "nombre": "Jefferson Lerma",
+          "posición": "Centrocampista",
+          "foto_url": "https://media.istockphoto.com/id/1449669577/photo/soccer-sports-and-fitness-with-a-man-athlete-holding-a-ball-on-a-field-or-grass-pitch-for.jpg?s=2048x2048&w=is&k=20&c=WRqfPC72XbmcacvVyAcdiJ8zHR5JB6x2l72-g8vS_ZA="
+        },
+        {
+          "nombre": "Mateus Uribe",
+          "posición": "Centrocampista",
+          "foto_url": "https://media.istockphoto.com/id/1318483549/photo/soccer-midfielder.jpg?s=2048x2048&w=is&k=20&c=8EnqlY4uYic5-QgyE0f4rkh8e3Sn5sJ7hJ1n1OwG5Fw="
+        },
+        {
+          "nombre": "James Rodríguez",
+          "posición": "Centrocampista",
+          "foto_url": "https://media.istockphoto.com/id/1318483549/photo/soccer-midfielder.jpg?s=2048x2048&w=is&k=20&c=8EnqlY4uYic5-QgyE0f4rkh8e3Sn5sJ7hJ1n1OwG5Fw="
+        },
+        {
+          "nombre": "Luis Díaz",
+          "posición": "Delantero",
+          "foto_url": "https://media.istockphoto.com/id/1363469366/photo/soccer-forward-running.jpg?s=2048x2048&w=is&k=20&c=2TSgTb2mUyDtCaV5LqltB07PSqO_hxwF4KNqH0wBa28="
+        },
+        {
+          "nombre": "Rafael Santos Borré",
+          "posición": "Delantero",
+          "foto_url": "https://media.istockphoto.com/id/1363469366/photo/soccer-forward-running.jpg?s=2048x2048&w=is&k=20&c=2TSgTb2mUyDtCaV5LqltB07PSqO_hxwF4KNqH0wBa28="
+        },
+        {
+          "nombre": "Luis Sinisterra",
+          "posición": "Delantero",
+          "foto_url": "https://media.istockphoto.com/id/1363469366/photo/soccer-forward-running.jpg?s=2048x2048&w=is&k=20&c=2TSgTb2mUyDtCaV5LqltB07PSqO_hxwF4KNqH0wBa28="
+        }
+      ]
+    },
+    {
+      "fecha": "2024-10-15",
+      "equipo_local": "Colombia",
+      "resultado": "ganó",
+      "goles_a_favor": 4,
+      "goles_en_contra": 0,
+      "jugadores": [
+        {
+          "nombre": "Álvaro Montero",
+          "posición": "Portero",
+          "foto_url": "https://media.istockphoto.com/id/2066875733/photo/confident-male-soccer-player-portrait-on-field.jpg?s=2048x2048&w=is&k=20&c=Qp1HInoW26StvOQwrgwGbgaFA96EJVUE4hu_EsXpJt4="
+        },
+        {
+          "nombre": "Santiago Arias",
+          "posición": "Defensa",
+          "foto_url": "https://media.istockphoto.com/id/2149109733/photo/determined-male-referee-at-football-game.jpg?s=2048x2048&w=is&k=20&c=-ojsWy_Wv_2zskBQUWmii6FflK68gNFMaHHDTweq-Qc="
+        },
+        {
+          "nombre": "Carlos Cuesta",
+          "posición": "Defensa",
+          "foto_url": "https://media.istockphoto.com/id/2149109724/photo/confident-male-football-player-in-professional-attire-holding-ball.jpg?s=2048x2048&w=is&k=20&c=ES6q8iVV8Z0pqpeUgGAwCkBwM8rS_Sbmcju1MV5LB8I="
+        },
+        {
+          "nombre": "Yerry Mina",
+          "posición": "Defensa",
+          "foto_url": "https://media.istockphoto.com/id/187184994/photo/soccer-player-on-the-football-pitch.jpg?s=2048x2048&w=is&k=20&c=w6FW_bILWlXQ2_eOtlnmkmKjTfC7htwdGmGmTY0ElEw="
+        },
+        {
+          "nombre": "Frank Fabra",
+          "posición": "Defensa",
+          "foto_url": "https://media.istockphoto.com/id/515056644/photo/soccer-player-portrait-looking-away.jpg?s=2048x2048&w=is&k=20&c=6r7x6ojUYCbnAzWiHgq4LsR2ZWoYnjyAL3HBb0fAjTU="
+        },
+        {
+          "nombre": "Wilmar Barrios",
+          "posición": "Centrocampista",
+          "foto_url": "https://media.istockphoto.com/id/1449669577/photo/soccer-sports-and-fitness-with-a-man-athlete-holding-a-ball-on-a-field-or-grass-pitch-for.jpg?s=2048x2048&w=is&k=20&c=WRqfPC72XbmcacvVyAcdiJ8zHR5JB6x2l72-g8vS_ZA="
+        },
+        {
+          "nombre": "Jefferson Lerma",
+          "posición": "Centrocampista",
+          "foto_url": "https://media.istockphoto.com/id/1318483549/photo/soccer-midfielder.jpg?s=2048x2048&w=is&k=20&c=8EnqlY4uYic5-QgyE0f4rkh8e3Sn5sJ7hJ1n1OwG5Fw="
+        },
+        {
+          "nombre": "Juan Fernando Quintero",
+          "posición": "Centrocampista",
+          "foto_url": "https://media.istockphoto.com/id/1318483549/photo/soccer-midfielder.jpg?s=2048x2048&w=is&k=20&c=8EnqlY4uYic5-QgyE0f4rkh8e3Sn5sJ7hJ1n1OwG5Fw="
+        },
+        {
+          "nombre": "Luis Díaz",
+          "posición": "Delantero",
+          "foto_url": "https://media.istockphoto.com/id/1363469366/photo/soccer-forward-running.jpg?s=2048x2048&w=is&k=20&c=2TSgTb2mUyDtCaV5LqltB07PSqO_hxwF4KNqH0wBa28="
+        },
+        {
+          "nombre": "Duván Zapata",
+          "posición": "Delantero",
+          "foto_url": "https://media.istockphoto.com/id/1363469366/photo/soccer-forward-running.jpg?s=2048x2048&w=is&k=20&c=2TSgTb2mUyDtCaV5LqltB07PSqO_hxwF4KNqH0wBa28="
+        },
+        {
+          "nombre": "Luis Sinisterra",
+          "posición": "Delantero",
+          "foto_url": "https://media.istockphoto.com/id/1363469366/photo/soccer-forward-running.jpg?s=2048x2048&w=is&k=20&c=2TSgTb2mUyDtCaV5LqltB07PSqO_hxwF4KNqH0wBa28="
+        }
+      ]
+    },
+    {
+      "fecha": "2024-11-16",
+      "equipo_local": "Colombia",
+      "resultado": "ganó",
+      "goles_a_favor": 2,
+      "goles_en_contra": 1,
+      "jugadores": [
+        {
+          "nombre": "David Ospina",
+          "posición": "Portero",
+          "foto_url": "https://media.istockphoto.com/id/2066875733/photo/confident-male-soccer-player-portrait-on-field.jpg?s=2048x2048&w=is&k=20&c=Qp1HInoW26StvOQwrgwGbgaFA96EJVUE4hu_EsXpJt4="
+        },
+        {
+          "nombre": "Daniel Muñoz",
+          "posición": "Defensa",
+          "foto_url": "https://media.istockphoto.com/id/2149109733/photo/determined-male-referee-at-football-game.jpg?s=2048x2048&w=is&k=20&c=-ojsWy_Wv_2zskBQUWmii6FflK68gNFMaHHDTweq-Qc="
+        },
+        {
+          "nombre": "Davinson Sánchez",
+          "posición": "Defensa",
+          "foto_url": "https://media.istockphoto.com/id/2149109724/photo/confident-male-football-player-in-professional-attire-holding-ball.jpg?s=2048x2048&w=is&k=20&c=ES6q8iVV8Z0pqpeUgGAwCkBwM8rS_Sbmcju1MV5LB8I="
+        },
+        {
+          "nombre": "Yerry Mina",
+          "posición": "Defensa",
+          "foto_url": "https://media.istockphoto.com/id/187184994/photo/soccer-player-on-the-football-pitch.jpg?s=2048x2048&w=is&k=20&c=w6FW_bILWlXQ2_eOtlnmkmKjTfC7htwdGmGmTY0ElEw="
+        },
+        {
+          "nombre": "Johan Mojica",
+          "posición": "Defensa",
+          "foto_url": "https://media.istockphoto.com/id/515056644/photo/soccer-player-portrait-looking-away.jpg?s=2048x2048&w=is&k=20&c=6r7x6ojUYCbnAzWiHgq4LsR2ZWoYnjyAL3HBb0fAjTU="
+        },
+        {
+          "nombre": "Jefferson Lerma",
+          "posición": "Centrocampista",
+          "foto_url": "https://media.istockphoto.com/id/1449669577/photo/soccer-sports-and-fitness-with-a-man-athlete-holding-a-ball-on-a-field-or-grass-pitch-for.jpg?s=2048x2048&w=is&k=20&c=WRqfPC72XbmcacvVyAcdiJ8zHR5JB6x2l72-g8vS_ZA="
+        },
+        {
+          "nombre": "Mateus Uribe",
+          "posición": "Centrocampista",
+          "foto_url": "https://media.istockphoto.com/id/1318483549/photo/soccer-midfielder.jpg?s=2048x2048&w=is&k=20&c=8EnqlY4uYic5-QgyE0f4rkh8e3Sn5sJ7hJ1n1OwG5Fw="
+        },
+        {
+          "nombre": "James Rodríguez",
+          "posición": "Centrocampista",
+          "foto_url": "https://media.istockphoto.com/id/1318483549/photo/soccer-midfielder.jpg?s=2048x2048&w=is&k=20&c=8EnqlY4uYic5-QgyE0f4rkh8e3Sn5sJ7hJ1n1OwG5Fw="
+        },
+        {
+          "nombre": "Luis Díaz",
+          "posición": "Delantero",
+          "foto_url": "https://media.istockphoto.com/id/1363469366/photo/soccer-forward-running.jpg?s=2048x2048&w=is&k=20&c=2TSgTb2mUyDtCaV5LqltB07PSqO_hxwF4KNqH0wBa28="
+        },
+        {
+          "nombre": "Rafael Santos Borré",
+          "posición": "Delantero",
+          "foto_url": "https://media.istockphoto.com/id/1363469366/photo/soccer-forward-running.jpg?s=2048x2048&w=is&k=20&c=2TSgTb2mUyDtCaV5LqltB07PSqO_hxwF4KNqH0wBa28="
+        },
+        {
+          "nombre": "Luis Sinisterra",
+          "posición": "Delantero",
+          "foto_url": "https://media.istockphoto.com/id/1363469366/photo/soccer-forward-running.jpg?s=2048x2048&w=is&k=20&c=2TSgTb2mUyDtCaV5LqltB07PSqO_hxwF4KNqH0wBa28="
+        }
+      ]
+    }
+  ]
